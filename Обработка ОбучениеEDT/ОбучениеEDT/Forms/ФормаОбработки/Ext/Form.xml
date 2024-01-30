@@ -19,6 +19,12 @@
 	<ChildItems>
 		<InputField name="ВходныеДанные" id="1">
 			<DataPath>Объект.ВходныеДанные</DataPath>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Данные клиента 1</v8:content>
+				</v8:item>
+			</Title>
 			<EditMode>EnterOnInput</EditMode>
 			<ContextMenu name="ВходныеДанныеКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ВходныеДанныеРасширеннаяПодсказка" id="3"/>
