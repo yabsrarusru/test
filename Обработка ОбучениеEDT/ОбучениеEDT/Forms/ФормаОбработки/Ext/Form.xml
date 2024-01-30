@@ -17,6 +17,16 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
+		<LabelDecoration name="Декорация1" id="6">
+			<Title formatted="false">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Надпись новая</v8:content>
+				</v8:item>
+			</Title>
+			<ContextMenu name="Декорация1КонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="Декорация1РасширеннаяПодсказка" id="8"/>
+		</LabelDecoration>
 		<InputField name="ВходныеДанные" id="1">
 			<DataPath>Объект.ВходныеДанные</DataPath>
 			<EditMode>EnterOnInput</EditMode>
