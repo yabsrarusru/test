@@ -17,6 +17,16 @@
 		</ChildItems>
 	</AutoCommandBar>
 	<ChildItems>
+		<LabelDecoration name="Надпись2" id="9">
+			<Title formatted="false">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Надпись 2</v8:content>
+				</v8:item>
+			</Title>
+			<ContextMenu name="Надпись2КонтекстноеМеню" id="10"/>
+			<ExtendedTooltip name="Надпись2РасширеннаяПодсказка" id="11"/>
+		</LabelDecoration>
 		<LabelDecoration name="Декорация1" id="6">
 			<Title formatted="false">
 				<v8:item>
