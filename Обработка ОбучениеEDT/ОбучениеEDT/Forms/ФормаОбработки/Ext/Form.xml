@@ -21,7 +21,11 @@
 			<Title formatted="false">
 				<v8:item>
 					<v8:lang>ru</v8:lang>
+<<<<<<< HEAD
 					<v8:content>Надпись 2</v8:content>
+=======
+					<v8:content>Надпись2</v8:content>
+>>>>>>> master
 				</v8:item>
 			</Title>
 			<ContextMenu name="Надпись2КонтекстноеМеню" id="10"/>
